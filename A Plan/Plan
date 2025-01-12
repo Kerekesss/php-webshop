@@ -1,0 +1,77 @@
+1. HTML + CSS Front page.
+2. Login + Register User.
+3. Search + Display Logic.
+
+
+
+Products Page Tasks 
+
++ Razdvojiti Products u 2 kolone.
++ Leva kolona: Brand Filter, Cena Filter.   
++ Napraviti array sa brandovima.    
++ Desna Kolona: grid po 3 produkta.  
++ Uraditi logiku za add to cart button i shopping cart stranicu.
++ Napraviti array sa cenama i logiku za to. 
+
+
+Sign Up / Login nav koji Vodi na stranicu za prijavljivanje
+
++ Napraviti model korisnik.
++ Napraviti session.
+
+Product Page Tasks
+
++ Insertovati sa Add to Cart u korpa tabelu.
++ update table if exists id
++ kada login, logout ne pokazuje. Popraviti
+
+Shopping Cart Page Tasks
+
++ Login to see your Items.
++ Fetchovati sve proizvode iz korpa tabele i prikazati na stranici.
++ Opcija sa brisanje proizvoda.
++ Dugme naruci i slanje podataka u tabelu narudzbine.
++ Orders Page gde stoje narudzbine od korisnika
+
+
+
++ Footer Uraditi.
++ About Page Uraditi.
++ Ubaciti search u header.
++ Products stranicu skroz zavrsiti.
+
+CSS
+
++ Footer CSS.
++ Login CSS i error CSS umesto die().
++ SignUp CSS i error CSS umesto die().
++ Shopping Cart CSS.
++ OrdersPage CSS.
++ Velika pozadina sa telefonima.
++ About Page CSS.
+    + 3 diva. tekst plus slika, slika plus tekst, i tekst plus slika ponovo.
++ Napraviti mini menu za Your Orders link.
++ Novi Logo za header i footer.
++ Footer CSS ko na adidas sajtu.
++ Search button u headeru.
++ Filter Products CSS.
++ Home Page CSS + HTML.
++ Product item CSS.
+
+
+Javascript
+
++ Filter Products Javascript onclick to show.
++ Typing animacija za pocetnu stranicu.
+
+Zavrsni Taskovi
+
++ Animirano ispisivanje teksta na pocetnoj strani.
++ Ograniciti na 9 produkta prikaz na stranici Products.
++ Orders stranica i Shopping Cart CSS popraviti.
+    + Smanjiti h1.
+    + Order date i arrival date flex.
+- Optimizacija za male ekrane.
+- Hidden menu za male ekrane sa Javascriptom.
+- CSS za ceo website doraditi.
+- ZA KRAJ Dodati slike i opis za sve telefone.
